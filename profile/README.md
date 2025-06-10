@@ -55,16 +55,6 @@ Next.js      .NET         Kotlin       Docker
 5. **Launch** - Deploying with confidence
 6. **Support** - Ongoing optimization and maintenance
 
-## 🤝 Let's Build Something Amazing
-
-Ready to transform your digital presence? We're here to turn your ideas into reality.
-
-**Get in Touch:**
-- 📧 Email: hello@sipheric.com
-- 🌍 Website: www.sipheric.com
-- 💼 LinkedIn: /company/sipheric
-- 🐦 Twitter: @sipheric
-
 ---
 
 ### Development Guidelines
@@ -77,7 +67,6 @@ Ready to transform your digital presence? We're here to turn your ideas into rea
 ## 📚 Resources
 
 - [Documentation](docs/)
-- [API Reference](docs/api/)
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
